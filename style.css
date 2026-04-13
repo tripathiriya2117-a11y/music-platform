@@ -1,0 +1,67 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+
+.logo {
+    width: 100px;
+}body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0d0d0d;
+    color: white;
+}
+
+/* Sections */
+section {
+    padding: 60px 20px;
+    text-align: center;
+    border-bottom: 1px solid #222;
+}
+/* container */
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+/* Headings */
+h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+/* Paragraph */
+p {
+    color: #ccc;
+}
+
+/* Buttons */
+button {
+    background: #ff4d4d;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background: #ff1a1a;
+}
+
+/* Audio */
+audio {
+    margin: 10px;
+}
+
+/* Service text */
+section p {
+    margin: 8px 0;
+}
